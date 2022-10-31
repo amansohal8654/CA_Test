@@ -1,4 +1,4 @@
-# Blockchain tech app with TypeScript Next.js
+# Student Portal tech app with TypeScript Next.js
 
 ## Quick start 
 Open this project in your favorite terminal and run command
